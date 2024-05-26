@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(255, 132, 132);
+  text-decoration: underline;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+  border: 4px solid rgb(255, 132, 132);
+  content: 'Made by';
+}
+
+.subtext {
+  text-align: center;
+}
