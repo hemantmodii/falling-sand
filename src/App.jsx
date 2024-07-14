@@ -16,7 +16,7 @@ const sketch = (p) => {
   }
 
   let grid;
-  let w = 2;
+  let w = 3;
   let cols, rows;
   let hueValue = 1;
 
